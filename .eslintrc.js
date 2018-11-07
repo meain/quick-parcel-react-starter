@@ -1,7 +1,7 @@
 module.exports = {
   parser: 'babel-eslint',
   env: { browser: true, es6: true },
-  extends: ['eslint:recommended', 'plugin:react/recommended'],
+  extends: ['eslint:recommended', 'plugin:react/recommended', 'pretter'],
   parserOptions: {
     ecmaFeatures: { experimentalObjectRestSpread: true, jsx: true },
     sourceType: 'module',
