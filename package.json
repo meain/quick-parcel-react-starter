@@ -22,7 +22,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-react": "^6.24.1",
-    "cssnano": "^4.0.3",
+    "cssnano": "^4.1.10",
     "eslint": "^5.14.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-config-prettier": "^4.0.0",
@@ -32,7 +32,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
     "flow-bin": "^0.93.0",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.3",
     "stylelint-config-standard": "^18.2.0"
   }
 }
