@@ -2,7 +2,6 @@
 
 ## Features
 
-* Types using `flow`
 * Formatting using `prettier`
 * `stylelint` config
 
